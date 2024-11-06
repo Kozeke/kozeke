@@ -4,7 +4,7 @@
 
 Hi, I'm Kozy-Korpesh Tolep, a full-stack and cloud developer 👨🏻‍💻 from <b>Italy</b>. I'm a results-oriented full stack developer with over 4 years of experience developing, testing, and maintaining enterprise applications. I specialize in CRM/ERP systems, API creation, high-load systems, architecture optimization, and external integrations. I have a strong background in back-end technologies like Python(Django, FastApi), PHP(Laravel), and Redis, and front-end frameworks like Vue, React along with a broad knowledge of Docker, Git, and MySQL optimization for complex applications. I've designed and developed over 30 applications for diverse clients, from small businesses to large enterprises.
 
-I’m also experienced with advanced JavaScript and Node.js, handling real-time data using WebSocket and MQTT for IoT bioprinter projects, and have worked on interactive dashboards and mapping applications to enhance usability and navigation. I enjoy tackling complex integrations, including SOAP and Guzzle for data parsing, and using social media APIs to manage customer feedback effectively.
+I’m also experienced with advanced Python(FastApi) and JS(React), handling real-time data using WebSocket and MQTT for IoT bioprinter projects, and have worked on interactive dashboards and mapping applications to enhance usability and navigation. I enjoy tackling complex integrations, including SOAP and Guzzle for data parsing, and using social media APIs to manage customer feedback effectively.
 
 <br>
 
