@@ -2,32 +2,31 @@
 
 <br>
 
-Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
+Hi, I'm Destiny Franks, a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a results-oriented full stack developer with over 4 years of experience developing, testing, and maintaining enterprise applications. I specialize in CRM/ERP systems, API creation, high-load systems, architecture optimization, and external integrations. I have a strong background in back-end technologies like PHP, Laravel, and Redis, and front-end frameworks like Vue, along with a broad knowledge of Docker, Git, and MySQL optimization for complex applications. I've designed and developed over 30 applications for diverse clients, from small businesses to large enterprises.
+
+I’m also experienced with advanced JavaScript and Node.js, handling real-time data using WebSocket and MQTT for IoT bioprinter projects, and have worked on interactive dashboards and mapping applications to enhance usability and navigation. I enjoy tackling complex integrations, including SOAP and Guzzle for data parsing, and using social media APIs to manage customer feedback effectively.
 
 <br>
 
-<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
-
- - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com);
+ - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com)
  - 🔗 My Website: Coming Soon...
-<!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
- 
+
  <br>
 <h3>Profile Views</h3>
  <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
  
  </br>
 
-**Languages and Tools::**
+**Languages and Tools:**
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -38,7 +37,3 @@ Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
