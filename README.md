@@ -40,7 +40,6 @@ I’m also experienced with advanced JavaScript and Node.js, handling real-time 
 <br />
 <br />
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
